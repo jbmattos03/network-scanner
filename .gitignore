@@ -1,0 +1,14 @@
+# Ignore .txt files
+*.txt
+
+# Ignore vscode files
+.vscode
+
+# Ignore .o files
+*.o
+
+# Ignore main
+main
+
+# Ignore .env
+.env
